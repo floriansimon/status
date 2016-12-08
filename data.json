@@ -1,0 +1,48 @@
+{
+	"version": "0.1",
+	"amenity": {
+		"title": "",
+		"category": "student",
+		"alert": {
+			"url": "",
+			"label": ""
+		},	
+		"times": {
+			"mon": ["", "", "", ""],
+			"tue": ["", ""],
+			"wed": ["", "", "", ""],
+			"thu": ["", ""],
+			"fri": ["", ""],
+			"sat": [],
+			"sun": [],
+			"hol": [],
+			"url": "",
+			"label": ""
+		},
+		"image":{
+			"url": "",
+			"label": ""
+		},
+		"map": "",
+		"phone": {
+			"number": "",
+			"label": ""
+		},
+		"mail": {
+			"address": "",
+			"label": ""
+		},
+		"web": {
+			"url": "",
+			"label": ""
+		},
+		"facebook":{
+			"url": "",
+			"label": ""
+		},
+		"twitter":{
+			"url": "",
+			"label": ""
+		}
+	}
+}
